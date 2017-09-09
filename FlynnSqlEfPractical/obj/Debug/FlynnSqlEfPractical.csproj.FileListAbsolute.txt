@@ -1,0 +1,10 @@
+C:\Users\tanto\Desktop\Flynn\FlynnSqlEfPractical\FlynnSqlEfPractical\bin\Debug\FlynnSqlEfPractical.exe.config
+C:\Users\tanto\Desktop\Flynn\FlynnSqlEfPractical\FlynnSqlEfPractical\bin\Debug\FlynnSqlEfPractical.exe
+C:\Users\tanto\Desktop\Flynn\FlynnSqlEfPractical\FlynnSqlEfPractical\bin\Debug\FlynnSqlEfPractical.pdb
+C:\Users\tanto\Desktop\Flynn\FlynnSqlEfPractical\FlynnSqlEfPractical\bin\Debug\EntityFramework.dll
+C:\Users\tanto\Desktop\Flynn\FlynnSqlEfPractical\FlynnSqlEfPractical\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tanto\Desktop\Flynn\FlynnSqlEfPractical\FlynnSqlEfPractical\bin\Debug\EntityFramework.xml
+C:\Users\tanto\Desktop\Flynn\FlynnSqlEfPractical\FlynnSqlEfPractical\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tanto\Desktop\Flynn\FlynnSqlEfPractical\FlynnSqlEfPractical\obj\Debug\FlynnSqlEfPractical.csprojResolveAssemblyReference.cache
+C:\Users\tanto\Desktop\Flynn\FlynnSqlEfPractical\FlynnSqlEfPractical\obj\Debug\FlynnSqlEfPractical.exe
+C:\Users\tanto\Desktop\Flynn\FlynnSqlEfPractical\FlynnSqlEfPractical\obj\Debug\FlynnSqlEfPractical.pdb
